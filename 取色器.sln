@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "取色器", "取色器\取色器.csproj", "{211247F7-D911-4C8C-A05A-DB2A18021D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{211247F7-D911-4C8C-A05A-DB2A18021D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211247F7-D911-4C8C-A05A-DB2A18021D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211247F7-D911-4C8C-A05A-DB2A18021D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211247F7-D911-4C8C-A05A-DB2A18021D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDB543B-0789-414B-AA85-7CB49B1E3182}
+	EndGlobalSection
+EndGlobal
